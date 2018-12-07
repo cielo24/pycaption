@@ -33,3 +33,5 @@ docs/_build
 
 # idea/intellij/pycharm
 .idea
+
+.v
